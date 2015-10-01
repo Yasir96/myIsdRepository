@@ -1,0 +1,30 @@
+Practical 1 Week 1
+What is code repository? 
+ Large amount is code for software is kept on web hosting facility also it is a file archive. These are mostly used as open sources.
+Why is it advantageous to us? 
+This can be a befit to us as you can get many open sources not only that you are able to instruct a computer to perform a particular task for you.
+Describe the different layers of software?  
+•	Hardware – Files and software are all stored on to the hardware
+•	BIOS – Basic Input/output Layer represents a firmware code which is mainly stored on ERROM, Flash drive or PROM which is run when a computer is switched on.
+•	Operating system - OS stands for an operating system and a OS is a software which manages a computer sharing resources and allows users to access resources with a interface.
+•	Software – Application are software which can be installed on to a computer such as media players or word processors.
+•	Programming languages – Programming language is used by users to control a computer or even a machine.
+Describe what algorithm is and why is a useful tool?
+Algorithm is a sequence which has a set of instructions for calculation functions to an ending state. Algorithm is also like a set of rules for calculation and is can be used for problem solving. This can be useful to a user as you can organize numbers and category in your head like UWL1 to UWL5 however you wouldn’t be able to sort a list which has millions of numbers so algorithm list the numbers and category automatically. 
+Write an algorithm that describes how to make a scrambled egg IF, WHEN, UNTILL, WHILE, WAIT, AND, OR?
+Prepare the eggs AND crack 2 eggs
+Mix well UNTILL texture are uniform throughout
+IF pan right size then heat pat of butter
+WHEN butter glides flick water to see the heat AND keep mixing the egg
+Place egg in pan WHILE turning temperature low  
+WAIT till the eggs are ready OR add additional items
+
+Is the Idle (Python language shell) an interpreter or a complier or both?
+The shell of IDLE allows one command at a time and the shell is interpreter when you create a file you able to multiple command programs which are being executed and complied. So this shows that it acts as both in a particular action.
+
+ 
+
+
+
+
+
